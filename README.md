@@ -1,1 +1,1 @@
-# ihproto
+# Interactive House Prototype.
